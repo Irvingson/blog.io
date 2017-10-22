@@ -93,10 +93,20 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 
 ## Fork别人的仓库 然后你可以很臭不要脸的删掉他发的东西嘿嘿
 
+![点右上角的fork](http://openmindclub.qiniudn.com/omt/BuildBlog019.jpg)
+
+这样你就成功的剽窃了人家的仓库，直接拿现成的东西是不是很舒服呢
+
+这样真是美滋滋呐
+
+距离你真正把它变成你的仓库还有一步之遥
+
+那就是把仓库的名字改成你的名字
+
 ![点上面这个settings](http://upload-images.jianshu.io/upload_images/8613291-a81c8f910ec76173.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-![就改红圈这个名字](http://upload-images.jianshu.io/upload_images/8613291-579589e94786728d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![就改红圈这个名字 格式是：用户名.github.io](http://upload-images.jianshu.io/upload_images/8613291-579589e94786728d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
@@ -110,5 +120,5 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
  ![](http://upload-images.jianshu.io/upload_images/8613291-c63e38b16ffa8f52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-> 刘帅这个人天真可爱活泼聪明机智可爱积极向上人见人爱花见花开
-                                                                                        ——沃·兹基硕德
+> 评价刘帅这个人，大概只能用“天真可爱活泼聪明善良单纯机智可爱积极向上人见人爱花见花开”了
+                                                                                        ——沃·兹基硕德
