@@ -109,7 +109,7 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 这个也是看脸的 欧洲人可能就一下子出来了一个页面，比如我
 非洲人那可能就要等个一两天的嘻嘻
 玄不改非，氪不改命哦
- ![] (http://upload-images.jianshu.io/upload_images/8613291-c63e38b16ffa8f52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![hj] (http://upload-images.jianshu.io/upload_images/8613291-c63e38b16ffa8f52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 > 刘帅这个人天真可爱活泼聪明机智可爱积极向上人见人爱花见花开
