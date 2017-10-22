@@ -70,6 +70,7 @@ Enter same passphrase again:<再次输入加密串>
 - 3、把你本地生成的密钥复制到里面（ key 文本框中）， 点击 add key 就ok了
 ![这个就是成果图 假装这就是我自己的](http://upload-images.jianshu.io/upload_images/8613291-8cdb8b47408b9491.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+这个就是成果图 假装这就是我自己的
 
 输入下面这个指令可以测试一下你有没有设置成功
 `$ ssh -T git@GitHub.com`
@@ -95,6 +96,9 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 
 ![点右上角的fork](http://openmindclub.qiniudn.com/omt/BuildBlog019.jpg)
 
+点右上角的fork
+
+
 这样你就成功的剽窃了人家的仓库，直接拿现成的东西是不是很舒服呢
 
 这样真是美滋滋呐
@@ -105,8 +109,12 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 
 ![点上面这个settings](http://upload-images.jianshu.io/upload_images/8613291-a81c8f910ec76173.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+点上面这个settings
 
 ![就改红圈这个名字 格式是：用户名.github.io](http://upload-images.jianshu.io/upload_images/8613291-579589e94786728d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+就改这个红圈的名字 格式是：用户名.github.io
+
 
 好了，它现在彻底是属于你的了【占有欲得到了满足】
 
