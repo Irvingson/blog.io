@@ -63,7 +63,7 @@ Enter same passphrase again:<再次输入加密串>
 
 ![我还真是可爱呢](http://upload-images.jianshu.io/upload_images/8613291-7349657c3c05ef47.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##然后就是添加SSH keys 到github
+## 然后就是添加SSH keys 到github
 在本机设置 SSH Key 之后，需要添加到 GitHub上，以完成 SSH 链接的设置。
 - 1、打开本地 id_rsa.pub 文件（ 参考地址 C:\Documents and Settings\Administrator.ssh\id_rsa.pub）。此文件里面内容为刚才生成的密钥。如果看不到这个文件，你需要设置显示隐藏文件。准确的复制这个文件的内容，才能保证设置的成功。
 - 2、登陆 GitHub 系统。点击右上角的 Account Settings—>SSH Public keys —> add another public keys
@@ -108,7 +108,7 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 
 ![就改红圈这个名字 格式是：用户名.github.io](http://upload-images.jianshu.io/upload_images/8613291-579589e94786728d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+好了，它现在彻底是属于你的了【占有欲得到了满足】
 
 
 然后你到浏览器里面搜一下你的仓库的名字 就比如xxx.github.io看看能不能搜得到
