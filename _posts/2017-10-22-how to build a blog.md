@@ -90,9 +90,9 @@ Git 会根据用户的名字和邮箱来记录提交。GitHub 也是用这些信
 $ git config --global user.name "cnfeat"//用户名
 $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 ```
-![
-![IEC}E~$X)TVKS$3E]C@SBBJ.png](http://upload-images.jianshu.io/upload_images/8613291-730ccdc3949b9e77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-]C@SBBJ.png](http://upload-images.jianshu.io/upload_images/8613291-a76455c4fec3229c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![](http://upload-images.jianshu.io/upload_images/8613291-730ccdc3949b9e77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/8613291-a76455c4fec3229c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Fork别人的仓库 然后你可以很臭不要脸的删掉他发的东西嘿嘿
 
@@ -109,7 +109,7 @@ $ git config --global user.email  "cnfeat@gmail.com"//*填写自己的邮箱*
 这个也是看脸的 欧洲人可能就一下子出来了一个页面，比如我
 非洲人那可能就要等个一两天的嘻嘻
 玄不改非，氪不改命哦
- ![hj] (http://upload-images.jianshu.io/upload_images/8613291-c63e38b16ffa8f52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![] (http://upload-images.jianshu.io/upload_images/8613291-c63e38b16ffa8f52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 > 刘帅这个人天真可爱活泼聪明机智可爱积极向上人见人爱花见花开
